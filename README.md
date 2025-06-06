@@ -1,2 +1,2 @@
 # First-and-Last
-First Github ting for comsci
+First Github thing for Commsci
